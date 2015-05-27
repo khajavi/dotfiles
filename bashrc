@@ -130,3 +130,8 @@ transfer() {
 }
 
 alias transfer=transfer
+
+
+alias fuck='$(thefuck $(fc -ln -1))'
+
+#export GOPATH="$HOME/golang/"
